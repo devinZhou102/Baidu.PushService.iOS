@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>BaiduPush.iOS</id>
+        <version>1.0.0.0</version>
+        <description> Xamarin.iOS Binding Library - BaiduPush </description>
+        <authors>devinzhou</authors>
+        <owners>devinzhou</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Devin - BaiduPush.iOS</title>
+        <releaseNotes>
+            First Release
+        </releaseNotes>
+        <summary> Xamarin.iOS Binding Library - BaiduPush version BPush-SDK-iOS-1.5.4 </summary>
+        <!-- <iconUrl></iconUrl> -->
+        <projectUrl>https://github.com/devinZhou102/Baidu.PushService.iOS</projectUrl>
+        <copyright>Copyright (c) 2019-present Devin</copyright>
+        <tags>Xamarin.iOS ,BaiduPush</tags>
+        
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <!-- iOS -->
+        <file src="Baidu.PushService.iOS\bin\Release\Baidu.PushService.iOS.*" target="lib\Xamarin.iOS10"  />
+        
+        
+    </files>
+</package>

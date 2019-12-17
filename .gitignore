@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Baidu.PushService.iOS/xs
+/.vs/Baidu.PushService.iOS/v16/Server/sqlite3
+/Baidu.PushService.iOS/obj/Debug
+/BaiduPushDemo/obj/iPhoneSimulator/Debug
